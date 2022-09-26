@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brando2306/CRUD-Mongo-NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brando2306/CRUD-Mongo-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Brando2306/CRUD-Mongo-NodeJS#readme"
+}
